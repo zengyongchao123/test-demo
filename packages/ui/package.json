@@ -19,9 +19,8 @@
   "scripts": {
     "test": "node ./__tests__/@comp/ui.test.js"
   },
-  "gitHead": "6623fe6fc4c5b990d4afa6cd2655645c24c5453d",
+  "gitHead": "13aa2d74a07477db6d012c8d200df62d79911f97",
   "dependencies": {
-    "@comp/utils": "^0.0.3",
-    "axios": "^1.7.7"
+     "axios": "^1.7.7"
   }
 }
