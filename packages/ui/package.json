@@ -1,6 +1,6 @@
 {
   "name": "test1",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "> TODO: description",
   "author": "zengyongchao <zengyongchao@cavalry.online>",
   "homepage": "",
@@ -21,7 +21,7 @@
   },
   "gitHead": "b98a0977940dec505f6f10d99aec40e69627f08e",
   "dependencies": {
-    "axios": "^1.7.7",
-    "@comp/utils": "^0.0.1"
+    "@comp/utils": "^0.0.2",
+    "axios": "^1.7.7"
   }
 }
