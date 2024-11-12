@@ -3,5 +3,5 @@
 module.exports = utils;
 
 function utils() {
-  return 'Hello from util222s';
+  return 'Hello from uti2l222s';
 }
