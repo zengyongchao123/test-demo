@@ -1,6 +1,6 @@
 {
   "name": "@comp/ui",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "> TODO: description",
   "author": "zengyongchao <zengyongchao@cavalry.online>",
   "homepage": "",
@@ -21,6 +21,6 @@
   },
   "gitHead": "13aa2d74a07477db6d012c8d200df62d79911f97",
   "dependencies": {
-     "axios": "^1.7.7"
+    "axios": "^1.7.7"
   }
 }
